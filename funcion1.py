@@ -1,6 +1,5 @@
-#Funcion que reciba el nombre de una persona y la salud
+#funcion que reciba el nombre de una persona y la salude
 
-#Declarar
+#DECLARAR
 def saludarPersona(nombre):
-    print(f"Buenos dias dormilona {nombre}")
-
+	print(f"Hola buenos días dormilon {nombre}")
